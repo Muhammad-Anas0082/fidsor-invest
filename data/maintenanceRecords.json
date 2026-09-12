@@ -1,0 +1,106 @@
+[
+  {
+    "id": "mnt-01",
+    "resourceId": "res-m1",
+    "date": "2025-04-18",
+    "kind": "service",
+    "cost": 3850000,
+    "vendor": "Millat Service Centre, Hyderabad",
+    "odometerHours": 1150,
+    "nextDueOn": "2025-10-18",
+    "note": "Engine oil, filters, hydraulic top-up."
+  },
+  {
+    "id": "mnt-02",
+    "resourceId": "res-m1",
+    "date": "2025-10-22",
+    "kind": "service",
+    "cost": 4120000,
+    "vendor": "Millat Service Centre, Hyderabad",
+    "odometerHours": 1780,
+    "nextDueOn": "2026-04-22",
+    "note": "Routine 250-hour service, clutch plate replaced."
+  },
+  {
+    "id": "mnt-03",
+    "resourceId": "res-m1",
+    "date": "2026-05-06",
+    "kind": "service",
+    "cost": 4480000,
+    "vendor": "Millat Service Centre, Hyderabad",
+    "odometerHours": 2390,
+    "nextDueOn": "2026-11-06",
+    "note": "Service plus front tyre replacement."
+  },
+  {
+    "id": "mnt-04",
+    "resourceId": "res-m2",
+    "date": "2025-08-11",
+    "kind": "service",
+    "cost": 3590000,
+    "vendor": "Al-Ghazi Workshop, Matiari",
+    "odometerHours": 620,
+    "nextDueOn": "2026-02-11",
+    "note": "First major service."
+  },
+  {
+    "id": "mnt-05",
+    "resourceId": "res-m2",
+    "date": "2026-03-02",
+    "kind": "repair",
+    "cost": 12600000,
+    "vendor": "Al-Ghazi Workshop, Matiari",
+    "odometerHours": 1310,
+    "note": "Hydraulic pump seal failure; two days off hire."
+  },
+  {
+    "id": "mnt-06",
+    "resourceId": "res-m2",
+    "date": "2026-07-19",
+    "kind": "service",
+    "cost": 3740000,
+    "vendor": "Al-Ghazi Workshop, Matiari",
+    "odometerHours": 1690,
+    "nextDueOn": "2027-01-19",
+    "note": "Routine service."
+  },
+  {
+    "id": "mnt-07",
+    "resourceId": "res-m3",
+    "date": "2026-02-14",
+    "kind": "repair",
+    "cost": 1860000,
+    "vendor": "Local welder, Tando Allahyar",
+    "note": "Axle weld and tailgate hinge."
+  },
+  {
+    "id": "mnt-08",
+    "resourceId": "res-m5",
+    "date": "2026-01-28",
+    "kind": "repair",
+    "cost": 2240000,
+    "vendor": "Sindh Agri Implements",
+    "note": "Blade set replaced."
+  },
+  {
+    "id": "mnt-09",
+    "resourceId": "res-m6",
+    "date": "2026-04-09",
+    "kind": "service",
+    "cost": 9400000,
+    "vendor": "JCB Authorised, Karachi",
+    "odometerHours": 480,
+    "nextDueOn": "2026-10-09",
+    "note": "500-hour service brought forward."
+  },
+  {
+    "id": "mnt-10",
+    "resourceId": "res-m6",
+    "date": "2026-08-24",
+    "kind": "repair",
+    "cost": 26800000,
+    "vendor": "JCB Authorised, Karachi",
+    "odometerHours": 810,
+    "note": "Boom cylinder reseal and hose replacement. Off hire, expected back 5 Sep."
+  }
+]

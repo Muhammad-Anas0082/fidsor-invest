@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fxt-01",
+    "code": "FX-0001",
+    "holdingId": "hld-fx-usd",
+    "date": "2024-05-23",
+    "side": "buy",
+    "quantity": 6000,
+    "rate": 26240,
+    "fee": 480000,
+    "net": 157920000,
+    "counterparty": "Meezan Bank FCY desk"
+  },
+  {
+    "id": "fxt-02",
+    "code": "FX-0002",
+    "holdingId": "hld-fx-usd",
+    "date": "2025-02-11",
+    "side": "buy",
+    "quantity": 5000,
+    "rate": 27180,
+    "fee": 400000,
+    "net": 136300000,
+    "counterparty": "Meezan Bank FCY desk"
+  },
+  {
+    "id": "fxt-03",
+    "code": "FX-0003",
+    "holdingId": "hld-fx-aed",
+    "date": "2025-06-04",
+    "side": "buy",
+    "quantity": 40000,
+    "rate": 7340,
+    "fee": 900000,
+    "net": 294500000,
+    "counterparty": "Al-Rehman Exchange"
+  },
+  {
+    "id": "fxt-04",
+    "code": "FX-0004",
+    "holdingId": "hld-fx-usd",
+    "date": "2025-09-30",
+    "side": "buy",
+    "quantity": 8000,
+    "rate": 27620,
+    "fee": 640000,
+    "net": 221600000,
+    "counterparty": "Meezan Bank FCY desk"
+  },
+  {
+    "id": "fxt-05",
+    "code": "FX-0005",
+    "holdingId": "hld-fx-aed",
+    "date": "2026-01-19",
+    "side": "buy",
+    "quantity": 25000,
+    "rate": 7480,
+    "fee": 560000,
+    "net": 187560000,
+    "counterparty": "Al-Rehman Exchange"
+  },
+  {
+    "id": "fxt-06",
+    "code": "FX-0006",
+    "holdingId": "hld-fx-usd",
+    "date": "2026-06-18",
+    "side": "sell",
+    "quantity": 3000,
+    "rate": 28410,
+    "fee": 240000,
+    "net": 84990000,
+    "counterparty": "Meezan Bank FCY desk"
+  },
+  {
+    "id": "fxt-07",
+    "code": "FX-0007",
+    "holdingId": "hld-fx-aed",
+    "date": "2026-07-28",
+    "side": "sell",
+    "quantity": 15000,
+    "rate": 7640,
+    "fee": 340000,
+    "net": 114260000,
+    "counterparty": "Al-Rehman Exchange"
+  },
+  {
+    "id": "fxt-08",
+    "code": "FX-0008",
+    "holdingId": "hld-fx-usd",
+    "date": "2026-08-12",
+    "side": "buy",
+    "quantity": 4000,
+    "rate": 27860,
+    "fee": 320000,
+    "net": 111760000,
+    "counterparty": "Meezan Bank FCY desk"
+  }
+]

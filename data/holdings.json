@@ -1,0 +1,112 @@
+[
+  {
+    "id": "hld-hbl",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-hbl",
+    "quantity": 5000,
+    "avgCost": 13861,
+    "realizedPnl": 0,
+    "firstBoughtOn": "2024-02-06"
+  },
+  {
+    "id": "hld-engro",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-engro",
+    "quantity": 800,
+    "avgCost": 29845,
+    "realizedPnl": 1479233,
+    "firstBoughtOn": "2024-02-14"
+  },
+  {
+    "id": "hld-ffc",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-ffc",
+    "quantity": 9000,
+    "avgCost": 13320,
+    "realizedPnl": 0,
+    "firstBoughtOn": "2024-02-20"
+  },
+  {
+    "id": "hld-ogdc",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-ogdc",
+    "quantity": 2500,
+    "avgCost": 21804,
+    "realizedPnl": 3353114,
+    "firstBoughtOn": "2024-03-12"
+  },
+  {
+    "id": "hld-luck",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-luck",
+    "quantity": 600,
+    "avgCost": 85595,
+    "realizedPnl": 0,
+    "firstBoughtOn": "2024-08-07"
+  },
+  {
+    "id": "hld-dgkc",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-dgkc",
+    "quantity": 0,
+    "avgCost": 0,
+    "realizedPnl": 10664500,
+    "firstBoughtOn": "2025-02-19"
+  },
+  {
+    "id": "hld-pso",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-pso",
+    "quantity": 2500,
+    "avgCost": 19830,
+    "realizedPnl": 0,
+    "firstBoughtOn": "2025-04-29"
+  },
+  {
+    "id": "hld-sys",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-sys",
+    "quantity": 500,
+    "avgCost": 38558,
+    "realizedPnl": 2508675,
+    "firstBoughtOn": "2025-07-16"
+  },
+  {
+    "id": "hld-mcb",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-mcb",
+    "quantity": 1000,
+    "avgCost": 26239,
+    "realizedPnl": 0,
+    "firstBoughtOn": "2026-01-08"
+  },
+  {
+    "id": "hld-ppl",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-ppl",
+    "quantity": 1800,
+    "avgCost": 17226,
+    "realizedPnl": 0,
+    "firstBoughtOn": "2026-02-26"
+  },
+  {
+    "id": "hld-mebl",
+    "projectId": "prj-stk-01",
+    "accountId": "acc-akd",
+    "securityId": "sec-mebl",
+    "quantity": 1000,
+    "avgCost": 24036,
+    "realizedPnl": 0,
+    "firstBoughtOn": "2026-04-16"
+  }
+]

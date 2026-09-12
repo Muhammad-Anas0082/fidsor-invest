@@ -1,0 +1,101 @@
+[
+  {
+    "id": "div-01",
+    "securityId": "sec-ffc",
+    "holdingId": "hld-ffc",
+    "date": "2025-03-18",
+    "perShare": 650,
+    "shares": 7000,
+    "gross": 4550000,
+    "tax": 682500,
+    "net": 3867500
+  },
+  {
+    "id": "div-02",
+    "securityId": "sec-hbl",
+    "holdingId": "hld-hbl",
+    "date": "2025-04-24",
+    "perShare": 400,
+    "shares": 5000,
+    "gross": 2000000,
+    "tax": 300000,
+    "net": 1700000
+  },
+  {
+    "id": "div-03",
+    "securityId": "sec-ogdc",
+    "holdingId": "hld-ogdc",
+    "date": "2025-09-05",
+    "perShare": 325,
+    "shares": 2500,
+    "gross": 812500,
+    "tax": 121900,
+    "net": 690600
+  },
+  {
+    "id": "div-04",
+    "securityId": "sec-ffc",
+    "holdingId": "hld-ffc",
+    "date": "2025-10-14",
+    "perShare": 700,
+    "shares": 7000,
+    "gross": 4900000,
+    "tax": 735000,
+    "net": 4165000
+  },
+  {
+    "id": "div-05",
+    "securityId": "sec-engro",
+    "holdingId": "hld-engro",
+    "date": "2026-02-11",
+    "perShare": 1100,
+    "shares": 1200,
+    "gross": 1320000,
+    "tax": 198000,
+    "net": 1122000
+  },
+  {
+    "id": "div-06",
+    "securityId": "sec-hbl",
+    "holdingId": "hld-hbl",
+    "date": "2026-04-22",
+    "perShare": 450,
+    "shares": 5000,
+    "gross": 2250000,
+    "tax": 337500,
+    "net": 1912500
+  },
+  {
+    "id": "div-07",
+    "securityId": "sec-pso",
+    "holdingId": "hld-pso",
+    "date": "2026-05-08",
+    "perShare": 1000,
+    "shares": 2500,
+    "gross": 2500000,
+    "tax": 375000,
+    "net": 2125000
+  },
+  {
+    "id": "div-08",
+    "securityId": "sec-ffc",
+    "holdingId": "hld-ffc",
+    "date": "2026-06-17",
+    "perShare": 750,
+    "shares": 7000,
+    "gross": 5250000,
+    "tax": 787500,
+    "net": 4462500
+  },
+  {
+    "id": "div-09",
+    "securityId": "sec-mcb",
+    "holdingId": "hld-mcb",
+    "date": "2026-07-30",
+    "perShare": 900,
+    "shares": 1000,
+    "gross": 900000,
+    "tax": 135000,
+    "net": 765000
+  }
+]

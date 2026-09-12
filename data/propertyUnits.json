@@ -1,0 +1,138 @@
+[
+  {
+    "id": "unt-01",
+    "propertyId": "prp-09",
+    "code": "SH-01",
+    "label": "Shop 1 — corner",
+    "floor": "Ground",
+    "sizeSqft": 480,
+    "monthlyRent": 11500000,
+    "status": "occupied",
+    "leaseId": "lse-06"
+  },
+  {
+    "id": "unt-02",
+    "propertyId": "prp-09",
+    "code": "SH-02",
+    "label": "Shop 2",
+    "floor": "Ground",
+    "sizeSqft": 390,
+    "monthlyRent": 8800000,
+    "status": "occupied",
+    "leaseId": "lse-07"
+  },
+  {
+    "id": "unt-03",
+    "propertyId": "prp-09",
+    "code": "SH-03",
+    "label": "Shop 3",
+    "floor": "Ground",
+    "sizeSqft": 390,
+    "monthlyRent": 8500000,
+    "status": "vacant"
+  },
+  {
+    "id": "unt-04",
+    "propertyId": "prp-10",
+    "code": "A-1",
+    "label": "Flat A-1",
+    "floor": "1st",
+    "sizeSqft": 1200,
+    "monthlyRent": 6200000,
+    "status": "occupied",
+    "leaseId": "lse-08"
+  },
+  {
+    "id": "unt-05",
+    "propertyId": "prp-10",
+    "code": "A-2",
+    "label": "Flat A-2",
+    "floor": "1st",
+    "sizeSqft": 1200,
+    "monthlyRent": 6200000,
+    "status": "occupied",
+    "leaseId": "lse-09"
+  },
+  {
+    "id": "unt-06",
+    "propertyId": "prp-10",
+    "code": "A-3",
+    "label": "Flat A-3",
+    "floor": "2nd",
+    "sizeSqft": 1200,
+    "monthlyRent": 5800000,
+    "status": "notice",
+    "leaseId": "lse-10"
+  },
+  {
+    "id": "unt-07",
+    "propertyId": "prp-10",
+    "code": "A-4",
+    "label": "Flat A-4",
+    "floor": "2nd",
+    "sizeSqft": 1200,
+    "monthlyRent": 6000000,
+    "status": "occupied",
+    "leaseId": "lse-11"
+  },
+  {
+    "id": "unt-08",
+    "propertyId": "prp-11",
+    "code": "G-1",
+    "label": "Unit G-1",
+    "floor": "Ground",
+    "sizeSqft": 1050,
+    "monthlyRent": 7000000,
+    "status": "maintenance"
+  },
+  {
+    "id": "unt-09",
+    "propertyId": "prp-11",
+    "code": "G-2",
+    "label": "Unit G-2",
+    "floor": "Ground",
+    "sizeSqft": 1050,
+    "monthlyRent": 7000000,
+    "status": "maintenance"
+  },
+  {
+    "id": "unt-10",
+    "propertyId": "prp-11",
+    "code": "F1-1",
+    "label": "Unit F1-1",
+    "floor": "1st",
+    "sizeSqft": 1100,
+    "monthlyRent": 7600000,
+    "status": "maintenance"
+  },
+  {
+    "id": "unt-11",
+    "propertyId": "prp-11",
+    "code": "F1-2",
+    "label": "Unit F1-2",
+    "floor": "1st",
+    "sizeSqft": 1100,
+    "monthlyRent": 7600000,
+    "status": "maintenance"
+  },
+  {
+    "id": "unt-12",
+    "propertyId": "prp-11",
+    "code": "F2-1",
+    "label": "Unit F2-1",
+    "floor": "2nd",
+    "sizeSqft": 1100,
+    "monthlyRent": 7800000,
+    "status": "maintenance"
+  },
+  {
+    "id": "unt-13",
+    "propertyId": "prp-11",
+    "code": "F2-2",
+    "label": "Unit F2-2",
+    "floor": "2nd",
+    "sizeSqft": 1100,
+    "monthlyRent": 7800000,
+    "status": "maintenance"
+  }
+]

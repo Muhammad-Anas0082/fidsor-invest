@@ -1,0 +1,22 @@
+[
+  {
+    "id": "hld-fx-usd",
+    "projectId": "prj-fx-01",
+    "accountId": "acc-fx-usd",
+    "currency": "USD",
+    "quantity": 20000,
+    "avgRate": 27307,
+    "realizedPnl": 3544737,
+    "firstBoughtOn": "2024-05-23"
+  },
+  {
+    "id": "hld-fx-aed",
+    "projectId": "prj-fx-01",
+    "accountId": "acc-meezan",
+    "currency": "AED",
+    "quantity": 50000,
+    "avgRate": 7416,
+    "realizedPnl": 3015385,
+    "firstBoughtOn": "2025-06-04"
+  }
+]

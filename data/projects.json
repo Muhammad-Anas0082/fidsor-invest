@@ -1,0 +1,224 @@
+[
+  {
+    "id": "prj-cs-01",
+    "code": "CS-2026",
+    "name": "Date Cold Storage 2026",
+    "type": "cold-storage",
+    "status": "operations",
+    "currency": "PKR",
+    "startedOn": "2026-05-01",
+    "expectedCloseOn": "2027-02-28",
+    "managerId": "usr-03",
+    "location": "Sukkur, Sindh",
+    "description": "Aseel and Karbalain dates bought at the Khairpur harvest, transported to the Sukkur chamber and released against winter demand.",
+    "budget": 4800000000,
+    "targetRoi": 0.28,
+    "tags": [
+      "seasonal",
+      "inventory",
+      "agri-processing"
+    ]
+  },
+  {
+    "id": "prj-cs-00",
+    "code": "CS-2025",
+    "name": "Date Cold Storage 2025",
+    "type": "cold-storage",
+    "status": "completed",
+    "currency": "PKR",
+    "startedOn": "2025-05-05",
+    "expectedCloseOn": "2026-02-28",
+    "closedOn": "2026-03-14",
+    "managerId": "usr-03",
+    "location": "Sukkur, Sindh",
+    "description": "The 2025 season, closed out in March. Retained as the benchmark the current season is measured against.",
+    "budget": 3600000000,
+    "targetRoi": 0.26,
+    "tags": [
+      "seasonal",
+      "closed"
+    ]
+  },
+  {
+    "id": "prj-agri-01",
+    "code": "AGL-014",
+    "name": "Agriculture Land — Hyderabad",
+    "type": "agriculture-land",
+    "status": "active",
+    "currency": "PKR",
+    "startedOn": "2024-03-12",
+    "managerId": "usr-02",
+    "location": "Hyderabad & Tando Allahyar, Sindh",
+    "description": "Farmland held for appreciation, with development spending on tube wells and levelling ahead of any sale.",
+    "budget": 9500000000,
+    "targetRoi": 0.25,
+    "opportunityId": "opp-03",
+    "tags": [
+      "land",
+      "long-hold"
+    ]
+  },
+  {
+    "id": "prj-lease-01",
+    "code": "LSE-007",
+    "name": "Farm Leasing — Tando Allahyar",
+    "type": "land-lease",
+    "status": "operations",
+    "currency": "PKR",
+    "startedOn": "2024-10-01",
+    "managerId": "usr-05",
+    "location": "Tando Allahyar, Sindh",
+    "description": "Held farmland leased to growers on annual and half-yearly terms. Income is rent; the land itself stays on the register.",
+    "budget": 600000000,
+    "targetRoi": 0.14,
+    "tags": [
+      "recurring-income",
+      "contracts"
+    ]
+  },
+  {
+    "id": "prj-prop-01",
+    "code": "PRT-021",
+    "name": "Property Trading — Karachi",
+    "type": "property-trade",
+    "status": "active",
+    "currency": "PKR",
+    "startedOn": "2025-01-20",
+    "managerId": "usr-02",
+    "location": "Karachi, Sindh",
+    "description": "Plots and apartments bought below market and held for resale. Two disposals so far; three still held.",
+    "budget": 7000000000,
+    "targetRoi": 0.32,
+    "tags": [
+      "resale",
+      "short-hold"
+    ]
+  },
+  {
+    "id": "prj-cons-01",
+    "code": "CON-005",
+    "name": "Gulshan Residency Construction",
+    "type": "construction",
+    "status": "active",
+    "currency": "PKR",
+    "startedOn": "2025-09-01",
+    "expectedCloseOn": "2027-03-31",
+    "managerId": "usr-05",
+    "location": "Gulshan-e-Iqbal, Karachi",
+    "description": "A six-apartment block on a plot acquired in 2025. Structure complete, finishing under way; units to be rented rather than sold.",
+    "budget": 6400000000,
+    "targetRoi": 0.35,
+    "tags": [
+      "development",
+      "in-progress"
+    ]
+  },
+  {
+    "id": "prj-rent-01",
+    "code": "RNT-011",
+    "name": "Rental Portfolio — Hyderabad",
+    "type": "property-rental",
+    "status": "operations",
+    "currency": "PKR",
+    "startedOn": "2023-07-01",
+    "managerId": "usr-05",
+    "location": "Hyderabad, Sindh",
+    "description": "Shops and apartments let on monthly tenancies. The steadiest cash flow in the portfolio and the smallest return.",
+    "budget": 5200000000,
+    "targetRoi": 0.12,
+    "tags": [
+      "recurring-income",
+      "tenants"
+    ]
+  },
+  {
+    "id": "prj-mf-01",
+    "code": "MFN-2026",
+    "name": "Microfinance Portfolio 2026",
+    "type": "microfinance",
+    "status": "operations",
+    "currency": "PKR",
+    "startedOn": "2024-11-01",
+    "managerId": "usr-04",
+    "location": "Hyderabad District, Sindh",
+    "description": "Small business loans to shopkeepers, tailors and dairy holders on twelve-month terms, collected monthly in the field.",
+    "budget": 600000000,
+    "targetRoi": 0.22,
+    "tags": [
+      "lending",
+      "collections"
+    ]
+  },
+  {
+    "id": "prj-stk-01",
+    "code": "EQT-003",
+    "name": "PSX Equity Portfolio",
+    "type": "stocks",
+    "status": "active",
+    "currency": "PKR",
+    "startedOn": "2023-08-15",
+    "managerId": "usr-02",
+    "location": "Pakistan Stock Exchange",
+    "description": "A concentrated holding in banks, fertiliser, cement and energy. Marked to a mock price feed in Phase 1.",
+    "budget": 2000000000,
+    "targetRoi": 0.18,
+    "tags": [
+      "liquid",
+      "mark-to-market"
+    ]
+  },
+  {
+    "id": "prj-fx-01",
+    "code": "FXP-002",
+    "name": "Currency Holdings — USD & AED",
+    "type": "currency",
+    "status": "active",
+    "currency": "PKR",
+    "startedOn": "2024-05-23",
+    "managerId": "usr-04",
+    "location": "Meezan FCY",
+    "description": "Foreign currency held against rupee depreciation. Small, liquid, and deliberately not traded actively.",
+    "budget": 900000000,
+    "targetRoi": 0.09,
+    "tags": [
+      "hedge",
+      "liquid"
+    ]
+  },
+  {
+    "id": "prj-mch-01",
+    "code": "MCH-009",
+    "name": "Machinery Rental — Tractors & Trolleys",
+    "type": "machinery",
+    "status": "operations",
+    "currency": "PKR",
+    "startedOn": "2024-01-15",
+    "managerId": "usr-03",
+    "location": "Tando Allahyar & Matiari",
+    "description": "Tractors, trolleys, a rotavator and a mini excavator hired out by the hour to growers and small contractors.",
+    "budget": 2200000000,
+    "targetRoi": 0.3,
+    "tags": [
+      "utilization",
+      "equipment"
+    ]
+  },
+  {
+    "id": "prj-hr-01",
+    "code": "HRS-004",
+    "name": "Hourly Workforce Services",
+    "type": "workforce",
+    "status": "operations",
+    "currency": "PKR",
+    "startedOn": "2025-02-01",
+    "managerId": "usr-03",
+    "location": "Hyderabad District, Sindh",
+    "description": "Farm labour, drivers and machine operators supplied to customers by the hour. Margin is the spread between the charge rate and the wage.",
+    "budget": 450000000,
+    "targetRoi": 0.26,
+    "tags": [
+      "utilization",
+      "services"
+    ]
+  }
+]

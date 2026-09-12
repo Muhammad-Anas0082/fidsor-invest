@@ -1,0 +1,273 @@
+[
+  {
+    "id": "res-m1",
+    "code": "T-001",
+    "name": "Massey Ferguson 385",
+    "kind": "machinery",
+    "category": "Tractor",
+    "projectId": "prj-mch-01",
+    "assetId": "ast-mch-01",
+    "hourlyRate": 300000,
+    "costRate": 115000,
+    "status": "booked",
+    "skills": [
+      "Ploughing",
+      "Sowing",
+      "Haulage"
+    ],
+    "location": "Tando Allahyar Yard",
+    "since": "2024-01-15",
+    "registrationNo": "SND-4471"
+  },
+  {
+    "id": "res-m2",
+    "code": "T-002",
+    "name": "Al-Ghazi NH 640",
+    "kind": "machinery",
+    "category": "Tractor",
+    "projectId": "prj-mch-01",
+    "assetId": "ast-mch-02",
+    "hourlyRate": 320000,
+    "costRate": 120000,
+    "status": "available",
+    "skills": [
+      "Ploughing",
+      "Rotavation",
+      "Haulage"
+    ],
+    "location": "Matiari Yard",
+    "since": "2024-06-20",
+    "registrationNo": "SND-5528"
+  },
+  {
+    "id": "res-m3",
+    "code": "TR-001",
+    "name": "Farm Trolley (5 ton)",
+    "kind": "machinery",
+    "category": "Trolley",
+    "projectId": "prj-mch-01",
+    "assetId": "ast-mch-03",
+    "hourlyRate": 120000,
+    "costRate": 35000,
+    "status": "booked",
+    "skills": [
+      "Haulage"
+    ],
+    "location": "Tando Allahyar Yard",
+    "since": "2024-01-15",
+    "registrationNo": "SND-T-119"
+  },
+  {
+    "id": "res-m4",
+    "code": "TR-002",
+    "name": "Farm Trolley (5 ton)",
+    "kind": "machinery",
+    "category": "Trolley",
+    "projectId": "prj-mch-01",
+    "assetId": "ast-mch-04",
+    "hourlyRate": 120000,
+    "costRate": 35000,
+    "status": "available",
+    "skills": [
+      "Haulage"
+    ],
+    "location": "Matiari Yard",
+    "since": "2025-03-10",
+    "registrationNo": "SND-T-204"
+  },
+  {
+    "id": "res-m5",
+    "code": "RV-001",
+    "name": "Rotavator (7 ft)",
+    "kind": "machinery",
+    "category": "Implement",
+    "projectId": "prj-mch-01",
+    "assetId": "ast-mch-05",
+    "hourlyRate": 220000,
+    "costRate": 70000,
+    "status": "available",
+    "skills": [
+      "Rotavation",
+      "Seedbed preparation"
+    ],
+    "location": "Tando Allahyar Yard",
+    "since": "2024-09-02"
+  },
+  {
+    "id": "res-m6",
+    "code": "EX-001",
+    "name": "Mini Excavator (JCB 8080)",
+    "kind": "machinery",
+    "category": "Excavator",
+    "projectId": "prj-mch-01",
+    "assetId": "ast-mch-06",
+    "hourlyRate": 650000,
+    "costRate": 240000,
+    "status": "maintenance",
+    "skills": [
+      "Excavation",
+      "Trenching",
+      "Site clearing"
+    ],
+    "location": "Hyderabad Yard",
+    "since": "2025-05-14",
+    "registrationNo": "SND-EX-08"
+  },
+  {
+    "id": "res-w1",
+    "code": "W-001",
+    "name": "Ghulam Qadir Solangi",
+    "kind": "worker",
+    "category": "Tractor Operator",
+    "projectId": "prj-hr-01",
+    "hourlyRate": 90000,
+    "costRate": 62000,
+    "status": "booked",
+    "skills": [
+      "Tractor",
+      "Rotavator",
+      "Basic maintenance"
+    ],
+    "location": "Tando Allahyar",
+    "since": "2025-02-01",
+    "phone": "+92 300 3341 552",
+    "cnic": "41401-•••••••-2"
+  },
+  {
+    "id": "res-w2",
+    "code": "W-002",
+    "name": "Muhammad Ramzan",
+    "kind": "worker",
+    "category": "Farm Labour",
+    "projectId": "prj-hr-01",
+    "hourlyRate": 50000,
+    "costRate": 35000,
+    "status": "available",
+    "skills": [
+      "Harvesting",
+      "Sorting",
+      "Loading"
+    ],
+    "location": "Tando Allahyar",
+    "since": "2025-02-01",
+    "phone": "+92 333 2218 447",
+    "cnic": "41401-•••••••-7"
+  },
+  {
+    "id": "res-w3",
+    "code": "W-003",
+    "name": "Allah Bachayo Mallah",
+    "kind": "worker",
+    "category": "Farm Labour",
+    "projectId": "prj-hr-01",
+    "hourlyRate": 50000,
+    "costRate": 35000,
+    "status": "booked",
+    "skills": [
+      "Harvesting",
+      "Irrigation"
+    ],
+    "location": "Matiari",
+    "since": "2025-03-15",
+    "phone": "+92 345 7719 226",
+    "cnic": "41201-•••••••-4"
+  },
+  {
+    "id": "res-w4",
+    "code": "W-004",
+    "name": "Nazeer Ahmed Rind",
+    "kind": "worker",
+    "category": "Driver (HTV)",
+    "projectId": "prj-hr-01",
+    "hourlyRate": 75000,
+    "costRate": 52000,
+    "status": "available",
+    "skills": [
+      "HTV licence",
+      "Long haul",
+      "Loading supervision"
+    ],
+    "location": "Hyderabad",
+    "since": "2025-04-02",
+    "phone": "+92 321 4418 903",
+    "cnic": "41303-•••••••-6"
+  },
+  {
+    "id": "res-w5",
+    "code": "W-005",
+    "name": "Sattar Bux Chandio",
+    "kind": "worker",
+    "category": "Mason",
+    "projectId": "prj-hr-01",
+    "hourlyRate": 110000,
+    "costRate": 80000,
+    "status": "booked",
+    "skills": [
+      "Brickwork",
+      "Plaster",
+      "Tiling"
+    ],
+    "location": "Hyderabad",
+    "since": "2025-06-10",
+    "phone": "+92 302 8813 774",
+    "cnic": "41303-•••••••-9"
+  },
+  {
+    "id": "res-w6",
+    "code": "W-006",
+    "name": "Kamran Ali Memon",
+    "kind": "worker",
+    "category": "Electrician",
+    "projectId": "prj-hr-01",
+    "hourlyRate": 140000,
+    "costRate": 100000,
+    "status": "available",
+    "skills": [
+      "Wiring",
+      "Panel work",
+      "Pump installation"
+    ],
+    "location": "Hyderabad",
+    "since": "2025-08-22",
+    "phone": "+92 311 5528 118",
+    "cnic": "41303-•••••••-3"
+  },
+  {
+    "id": "res-w7",
+    "code": "W-007",
+    "name": "Wali Muhammad Jat",
+    "kind": "worker",
+    "category": "Farm Labour",
+    "projectId": "prj-hr-01",
+    "hourlyRate": 50000,
+    "costRate": 35000,
+    "status": "available",
+    "skills": [
+      "Harvesting",
+      "Sorting"
+    ],
+    "location": "Tando Allahyar",
+    "since": "2025-11-04",
+    "phone": "+92 336 1180 665"
+  },
+  {
+    "id": "res-w8",
+    "code": "W-008",
+    "name": "Ashiq Hussain Jatoi",
+    "kind": "worker",
+    "category": "Excavator Operator",
+    "projectId": "prj-hr-01",
+    "hourlyRate": 120000,
+    "costRate": 85000,
+    "status": "off-duty",
+    "skills": [
+      "Excavator",
+      "Loader",
+      "Site levelling"
+    ],
+    "location": "Hyderabad",
+    "since": "2026-01-12",
+    "phone": "+92 313 9930 447",
+    "cnic": "41303-•••••••-1"
+  }
+]

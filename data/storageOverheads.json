@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ovh-01",
+    "projectId": "prj-cs-01",
+    "month": "2026-06",
+    "category": "electricity",
+    "amount": 84200000,
+    "note": "Three chambers, partial month."
+  },
+  {
+    "id": "ovh-02",
+    "projectId": "prj-cs-01",
+    "month": "2026-06",
+    "category": "facility-rent",
+    "amount": 60000000,
+    "note": "Sukkur chamber, monthly."
+  },
+  {
+    "id": "ovh-03",
+    "projectId": "prj-cs-01",
+    "month": "2026-06",
+    "category": "labour",
+    "amount": 31000000,
+    "note": "6 workers, loading and stacking."
+  },
+  {
+    "id": "ovh-04",
+    "projectId": "prj-cs-01",
+    "month": "2026-07",
+    "category": "electricity",
+    "amount": 118600000,
+    "note": "Peak summer load."
+  },
+  {
+    "id": "ovh-05",
+    "projectId": "prj-cs-01",
+    "month": "2026-07",
+    "category": "facility-rent",
+    "amount": 60000000,
+    "note": "Sukkur chamber, monthly."
+  },
+  {
+    "id": "ovh-06",
+    "projectId": "prj-cs-01",
+    "month": "2026-07",
+    "category": "labour",
+    "amount": 29500000,
+    "note": "6 workers."
+  },
+  {
+    "id": "ovh-07",
+    "projectId": "prj-cs-01",
+    "month": "2026-07",
+    "category": "maintenance",
+    "amount": 16800000,
+    "note": "Compressor service, chamber C-2."
+  },
+  {
+    "id": "ovh-08",
+    "projectId": "prj-cs-01",
+    "month": "2026-08",
+    "category": "electricity",
+    "amount": 109400000,
+    "note": "Load easing as stock releases."
+  },
+  {
+    "id": "ovh-09",
+    "projectId": "prj-cs-01",
+    "month": "2026-08",
+    "category": "facility-rent",
+    "amount": 60000000,
+    "note": "Sukkur chamber, monthly."
+  },
+  {
+    "id": "ovh-10",
+    "projectId": "prj-cs-01",
+    "month": "2026-08",
+    "category": "labour",
+    "amount": 28800000,
+    "note": "5 workers."
+  },
+  {
+    "id": "ovh-11",
+    "projectId": "prj-cs-01",
+    "month": "2026-08",
+    "category": "other",
+    "amount": 9600000,
+    "note": "Fumigation and quality inspection."
+  },
+  {
+    "id": "ovh-12",
+    "projectId": "prj-cs-00",
+    "month": "2025-08",
+    "category": "electricity",
+    "amount": 104200000,
+    "note": "2025 season."
+  },
+  {
+    "id": "ovh-13",
+    "projectId": "prj-cs-00",
+    "month": "2025-10",
+    "category": "electricity",
+    "amount": 88400000,
+    "note": "2025 season."
+  },
+  {
+    "id": "ovh-14",
+    "projectId": "prj-cs-00",
+    "month": "2025-12",
+    "category": "electricity",
+    "amount": 61200000,
+    "note": "2025 season, winter load."
+  },
+  {
+    "id": "ovh-15",
+    "projectId": "prj-cs-00",
+    "month": "2026-02",
+    "category": "electricity",
+    "amount": 48600000,
+    "note": "2025 season, final month."
+  },
+  {
+    "id": "ovh-16",
+    "projectId": "prj-cs-00",
+    "month": "2026-02",
+    "category": "labour",
+    "amount": 24000000,
+    "note": "Final release and chamber clear-out."
+  }
+]

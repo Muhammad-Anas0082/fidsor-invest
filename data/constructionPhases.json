@@ -1,0 +1,64 @@
+[
+  {
+    "id": "cph-01",
+    "jobId": "cnj-01",
+    "seq": 1,
+    "name": "Excavation & foundation",
+    "budget": 460000000,
+    "spent": 472000000,
+    "status": "completed",
+    "startedOn": "2025-10-05",
+    "completedOn": "2025-12-18"
+  },
+  {
+    "id": "cph-02",
+    "jobId": "cnj-01",
+    "seq": 2,
+    "name": "Grey structure — ground & first",
+    "budget": 1180000000,
+    "spent": 1214000000,
+    "status": "completed",
+    "startedOn": "2025-12-20",
+    "completedOn": "2026-04-02"
+  },
+  {
+    "id": "cph-03",
+    "jobId": "cnj-01",
+    "seq": 3,
+    "name": "Grey structure — second & roof",
+    "budget": 890000000,
+    "spent": 931000000,
+    "status": "completed",
+    "startedOn": "2026-04-05",
+    "completedOn": "2026-07-11"
+  },
+  {
+    "id": "cph-04",
+    "jobId": "cnj-01",
+    "seq": 4,
+    "name": "Electrical & plumbing",
+    "budget": 540000000,
+    "spent": 368000000,
+    "status": "in-progress",
+    "startedOn": "2026-07-14"
+  },
+  {
+    "id": "cph-05",
+    "jobId": "cnj-01",
+    "seq": 5,
+    "name": "Plaster, flooring & finishes",
+    "budget": 760000000,
+    "spent": 155000000,
+    "status": "in-progress",
+    "startedOn": "2026-08-10"
+  },
+  {
+    "id": "cph-06",
+    "jobId": "cnj-01",
+    "seq": 6,
+    "name": "Doors, windows & fittings",
+    "budget": 280000000,
+    "spent": 0,
+    "status": "not-started"
+  }
+]

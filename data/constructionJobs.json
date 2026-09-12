@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cnj-01",
+    "code": "CJ-001",
+    "projectId": "prj-cons-01",
+    "propertyId": "prp-11",
+    "name": "Gulshan Residency — six units",
+    "contractor": "Al-Madina Builders, Karachi",
+    "startedOn": "2025-10-05",
+    "targetCompletionOn": "2027-03-31",
+    "budget": 4110000000,
+    "spent": 3140000000,
+    "percentComplete": 0.68,
+    "status": "in-progress"
+  }
+]

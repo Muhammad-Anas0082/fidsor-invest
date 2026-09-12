@@ -1,0 +1,76 @@
+[
+  {
+    "id": "inv-01",
+    "code": "INV-001",
+    "name": "Fakhar Memon",
+    "kind": "individual",
+    "phone": "+92 300 2214 880",
+    "email": "fakhar@fidsorholdings.pk",
+    "cnic": "41303-•••••••-1",
+    "city": "Hyderabad",
+    "joinedOn": "2021-11-02",
+    "status": "active",
+    "note": "Principal. Holds the majority of every project."
+  },
+  {
+    "id": "inv-02",
+    "code": "INV-002",
+    "name": "Abdul Rehman Shaikh",
+    "kind": "individual",
+    "phone": "+92 321 4470 118",
+    "email": "ar.shaikh@gmail.com",
+    "cnic": "41306-•••••••-7",
+    "city": "Karachi",
+    "joinedOn": "2023-05-19",
+    "status": "active"
+  },
+  {
+    "id": "inv-03",
+    "code": "INV-003",
+    "name": "Sadiq Ali Memon",
+    "kind": "individual",
+    "phone": "+92 333 2218 604",
+    "email": "sadiq.memon@outlook.com",
+    "cnic": "41303-•••••••-5",
+    "city": "Hyderabad",
+    "joinedOn": "2024-03-02",
+    "status": "active"
+  },
+  {
+    "id": "inv-04",
+    "code": "INV-004",
+    "name": "Hyder Trading (Pvt) Ltd",
+    "kind": "company",
+    "phone": "+92 22 278 9014",
+    "email": "accounts@hydertrading.pk",
+    "city": "Sukkur",
+    "joinedOn": "2025-04-11",
+    "status": "active",
+    "note": "Corporate partner in the cold-storage seasons."
+  },
+  {
+    "id": "inv-05",
+    "code": "INV-005",
+    "name": "Zubair Qureshi",
+    "kind": "individual",
+    "phone": "+92 345 9930 771",
+    "email": "zubair.q@gmail.com",
+    "cnic": "42101-•••••••-3",
+    "city": "Karachi",
+    "joinedOn": "2025-01-20",
+    "status": "active"
+  },
+  {
+    "id": "inv-06",
+    "code": "INV-006",
+    "name": "Naveed Ahmed Bhatti",
+    "kind": "individual",
+    "phone": "+92 314 5518 442",
+    "email": "n.bhatti@yahoo.com",
+    "cnic": "41304-•••••••-9",
+    "city": "Tando Allahyar",
+    "joinedOn": "2024-10-01",
+    "status": "exited",
+    "note": "Exited the 2025 cold-storage season on closure; capital and share returned."
+  }
+]

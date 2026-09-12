@@ -1,0 +1,222 @@
+[
+  {
+    "id": "all-01",
+    "investorId": "inv-01",
+    "projectId": "prj-cs-01",
+    "sharePct": 0.5,
+    "committed": 2400000000,
+    "contributed": 2400000000,
+    "withdrawn": 0,
+    "since": "2026-05-01"
+  },
+  {
+    "id": "all-02",
+    "investorId": "inv-04",
+    "projectId": "prj-cs-01",
+    "sharePct": 0.3,
+    "committed": 1440000000,
+    "contributed": 1440000000,
+    "withdrawn": 0,
+    "since": "2026-05-01"
+  },
+  {
+    "id": "all-03",
+    "investorId": "inv-02",
+    "projectId": "prj-cs-01",
+    "sharePct": 0.2,
+    "committed": 960000000,
+    "contributed": 840000000,
+    "withdrawn": 0,
+    "since": "2026-05-06"
+  },
+  {
+    "id": "all-04",
+    "investorId": "inv-01",
+    "projectId": "prj-cs-00",
+    "sharePct": 0.6,
+    "committed": 2160000000,
+    "contributed": 2160000000,
+    "withdrawn": 2710000000,
+    "since": "2025-05-05"
+  },
+  {
+    "id": "all-05",
+    "investorId": "inv-06",
+    "projectId": "prj-cs-00",
+    "sharePct": 0.4,
+    "committed": 1440000000,
+    "contributed": 1440000000,
+    "withdrawn": 1806600000,
+    "since": "2025-05-05"
+  },
+  {
+    "id": "all-06",
+    "investorId": "inv-01",
+    "projectId": "prj-agri-01",
+    "sharePct": 0.7,
+    "committed": 6650000000,
+    "contributed": 6650000000,
+    "withdrawn": 0,
+    "since": "2024-03-12"
+  },
+  {
+    "id": "all-07",
+    "investorId": "inv-03",
+    "projectId": "prj-agri-01",
+    "sharePct": 0.3,
+    "committed": 2850000000,
+    "contributed": 2600000000,
+    "withdrawn": 0,
+    "since": "2024-03-20"
+  },
+  {
+    "id": "all-08",
+    "investorId": "inv-01",
+    "projectId": "prj-lease-01",
+    "sharePct": 0.7,
+    "committed": 420000000,
+    "contributed": 420000000,
+    "withdrawn": 195000000,
+    "since": "2024-10-01"
+  },
+  {
+    "id": "all-09",
+    "investorId": "inv-03",
+    "projectId": "prj-lease-01",
+    "sharePct": 0.3,
+    "committed": 180000000,
+    "contributed": 180000000,
+    "withdrawn": 83500000,
+    "since": "2024-10-01"
+  },
+  {
+    "id": "all-10",
+    "investorId": "inv-01",
+    "projectId": "prj-prop-01",
+    "sharePct": 0.55,
+    "committed": 3850000000,
+    "contributed": 3850000000,
+    "withdrawn": 620000000,
+    "since": "2025-01-20"
+  },
+  {
+    "id": "all-11",
+    "investorId": "inv-02",
+    "projectId": "prj-prop-01",
+    "sharePct": 0.25,
+    "committed": 1750000000,
+    "contributed": 1750000000,
+    "withdrawn": 281800000,
+    "since": "2025-01-20"
+  },
+  {
+    "id": "all-12",
+    "investorId": "inv-05",
+    "projectId": "prj-prop-01",
+    "sharePct": 0.2,
+    "committed": 1400000000,
+    "contributed": 1200000000,
+    "withdrawn": 0,
+    "since": "2025-02-04"
+  },
+  {
+    "id": "all-13",
+    "investorId": "inv-01",
+    "projectId": "prj-cons-01",
+    "sharePct": 0.65,
+    "committed": 4160000000,
+    "contributed": 3380000000,
+    "withdrawn": 0,
+    "since": "2025-09-01"
+  },
+  {
+    "id": "all-14",
+    "investorId": "inv-05",
+    "projectId": "prj-cons-01",
+    "sharePct": 0.35,
+    "committed": 2240000000,
+    "contributed": 1820000000,
+    "withdrawn": 0,
+    "since": "2025-09-01"
+  },
+  {
+    "id": "all-15",
+    "investorId": "inv-01",
+    "projectId": "prj-rent-01",
+    "sharePct": 1,
+    "committed": 5200000000,
+    "contributed": 5200000000,
+    "withdrawn": 940000000,
+    "since": "2023-07-01"
+  },
+  {
+    "id": "all-16",
+    "investorId": "inv-01",
+    "projectId": "prj-mf-01",
+    "sharePct": 0.8,
+    "committed": 480000000,
+    "contributed": 480000000,
+    "withdrawn": 42000000,
+    "since": "2024-11-01"
+  },
+  {
+    "id": "all-17",
+    "investorId": "inv-02",
+    "projectId": "prj-mf-01",
+    "sharePct": 0.2,
+    "committed": 120000000,
+    "contributed": 120000000,
+    "withdrawn": 10500000,
+    "since": "2024-11-01"
+  },
+  {
+    "id": "all-18",
+    "investorId": "inv-01",
+    "projectId": "prj-stk-01",
+    "sharePct": 1,
+    "committed": 2000000000,
+    "contributed": 1840000000,
+    "withdrawn": 120000000,
+    "since": "2023-08-15"
+  },
+  {
+    "id": "all-19",
+    "investorId": "inv-01",
+    "projectId": "prj-fx-01",
+    "sharePct": 1,
+    "committed": 900000000,
+    "contributed": 810000000,
+    "withdrawn": 0,
+    "since": "2024-05-23"
+  },
+  {
+    "id": "all-20",
+    "investorId": "inv-01",
+    "projectId": "prj-mch-01",
+    "sharePct": 0.75,
+    "committed": 1650000000,
+    "contributed": 1650000000,
+    "withdrawn": 330000000,
+    "since": "2024-01-15"
+  },
+  {
+    "id": "all-21",
+    "investorId": "inv-03",
+    "projectId": "prj-mch-01",
+    "sharePct": 0.25,
+    "committed": 550000000,
+    "contributed": 550000000,
+    "withdrawn": 110000000,
+    "since": "2024-01-15"
+  },
+  {
+    "id": "all-22",
+    "investorId": "inv-01",
+    "projectId": "prj-hr-01",
+    "sharePct": 1,
+    "committed": 450000000,
+    "contributed": 360000000,
+    "withdrawn": 88000000,
+    "since": "2025-02-01"
+  }
+]

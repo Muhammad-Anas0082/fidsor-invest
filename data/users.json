@@ -1,0 +1,72 @@
+[
+  {
+    "id": "usr-01",
+    "name": "Fakhar Memon",
+    "email": "fakhar@fidsorholdings.pk",
+    "phone": "+92 300 2214 880",
+    "roleId": "administrator",
+    "status": "active",
+    "lastActiveAt": "2026-08-29T09:12:00",
+    "joinedOn": "2021-11-02"
+  },
+  {
+    "id": "usr-02",
+    "name": "Adnan Qureshi",
+    "email": "adnan.q@fidsorholdings.pk",
+    "phone": "+92 321 3390 415",
+    "roleId": "investment-manager",
+    "status": "active",
+    "lastActiveAt": "2026-08-28T17:40:00",
+    "joinedOn": "2023-02-13"
+  },
+  {
+    "id": "usr-03",
+    "name": "Bilal Ahmed Jat",
+    "email": "bilal.j@fidsorholdings.pk",
+    "phone": "+92 333 7712 004",
+    "roleId": "operations",
+    "status": "active",
+    "lastActiveAt": "2026-08-29T08:05:00",
+    "joinedOn": "2024-01-08"
+  },
+  {
+    "id": "usr-04",
+    "name": "Sana Mirza",
+    "email": "sana.m@fidsorholdings.pk",
+    "phone": "+92 345 2201 736",
+    "roleId": "accountant",
+    "status": "active",
+    "lastActiveAt": "2026-08-28T15:22:00",
+    "joinedOn": "2024-06-17"
+  },
+  {
+    "id": "usr-05",
+    "name": "Imran Solangi",
+    "email": "imran.s@fidsorholdings.pk",
+    "phone": "+92 302 8814 559",
+    "roleId": "operations",
+    "status": "active",
+    "lastActiveAt": "2026-08-27T11:48:00",
+    "joinedOn": "2024-10-21"
+  },
+  {
+    "id": "usr-06",
+    "name": "Rukhsana Talpur",
+    "email": "rukhsana.t@auditpartners.pk",
+    "phone": "+92 311 6620 190",
+    "roleId": "viewer",
+    "status": "active",
+    "lastActiveAt": "2026-08-20T13:03:00",
+    "joinedOn": "2025-07-01"
+  },
+  {
+    "id": "usr-07",
+    "name": "Kashif Lashari",
+    "email": "kashif.l@fidsorholdings.pk",
+    "phone": "+92 336 4418 273",
+    "roleId": "operations",
+    "status": "invited",
+    "lastActiveAt": "2026-08-14T10:00:00",
+    "joinedOn": "2026-08-14"
+  }
+]

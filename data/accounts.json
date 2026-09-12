@@ -1,0 +1,100 @@
+[
+  {
+    "id": "acc-cash",
+    "name": "Office Cash",
+    "kind": "cash",
+    "institution": "Head Office — Hyderabad",
+    "number": "—",
+    "currency": "PKR",
+    "openingBalance": 185000000,
+    "openedOn": "2023-04-01",
+    "status": "active",
+    "note": "Petty cash and field disbursements."
+  },
+  {
+    "id": "acc-meezan",
+    "name": "Meezan Bank — Current",
+    "kind": "bank",
+    "institution": "Meezan Bank, Latifabad Branch",
+    "number": "•••• 3391",
+    "currency": "PKR",
+    "openingBalance": 7200000000,
+    "openedOn": "2022-06-14",
+    "status": "active",
+    "note": "Primary operating account."
+  },
+  {
+    "id": "acc-hbl",
+    "name": "HBL — Current",
+    "kind": "bank",
+    "institution": "Habib Bank, Saddar Branch",
+    "number": "•••• 7742",
+    "currency": "PKR",
+    "openingBalance": 600000000,
+    "openedOn": "2021-11-02",
+    "status": "active",
+    "note": "Property acquisitions and construction payments."
+  },
+  {
+    "id": "acc-ubl-agri",
+    "name": "UBL — Agriculture",
+    "kind": "bank",
+    "institution": "United Bank, Tando Allahyar",
+    "number": "•••• 1180",
+    "currency": "PKR",
+    "openingBalance": 240000000,
+    "openedOn": "2024-02-19",
+    "status": "active",
+    "projectId": "prj-agri-01",
+    "note": "Ring-fenced for the land and leasing operation."
+  },
+  {
+    "id": "acc-mf",
+    "name": "Microfinance Operations",
+    "kind": "bank",
+    "institution": "Bank Alfalah, Qasimabad",
+    "number": "•••• 2205",
+    "currency": "PKR",
+    "openingBalance": 150000000,
+    "openedOn": "2024-09-05",
+    "status": "active",
+    "projectId": "prj-mf-01",
+    "note": "Disbursements out, collections in. Kept separate for reporting."
+  },
+  {
+    "id": "acc-akd",
+    "name": "AKD Securities — CDC",
+    "kind": "brokerage",
+    "institution": "AKD Securities Ltd",
+    "number": "•••• 5521",
+    "currency": "PKR",
+    "openingBalance": 280000000,
+    "openedOn": "2023-08-11",
+    "status": "active",
+    "note": "PSX trading and settlement."
+  },
+  {
+    "id": "acc-fx-usd",
+    "name": "Meezan FCY — USD",
+    "kind": "currency",
+    "institution": "Meezan Bank, Latifabad Branch",
+    "number": "•••• 8830",
+    "currency": "USD",
+    "openingBalance": 0,
+    "openedOn": "2024-05-23",
+    "status": "active",
+    "note": "Balance is in USD. Valued into PKR at the rate of the day."
+  },
+  {
+    "id": "acc-jazzcash",
+    "name": "JazzCash Wallet",
+    "kind": "wallet",
+    "institution": "JazzCash",
+    "number": "•••• 4416",
+    "currency": "PKR",
+    "openingBalance": 0,
+    "openedOn": "2025-01-08",
+    "status": "active",
+    "note": "Worker wages and small collections."
+  }
+]
