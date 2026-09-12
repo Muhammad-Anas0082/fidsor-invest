@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en" dir="ltr" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Fidsor Invest — projects, assets, ledger, portfolio performance and net worth in one place." />
+  <title>Fidsor Invest</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <script>
+    // Applied before first paint so the shell never flashes the wrong theme.
+    (function() {
+      try {
+        var theme = localStorage.getItem('fidsor-invest.theme') || 'system';
+        var resolved =
+          theme === 'system' ?
+          window.matchMedia('(prefers-color-scheme: dark)').matches ?
+          'dark' :
+          'light' :
+          theme;
+        document.documentElement.setAttribute('data-theme', resolved);
+      } catch (e) {
+        /* private mode / storage blocked */
+      }
+    })();
+  </script>
+</head>
+<body class="bg-ink text-fg antialiased selection:bg-brand selection:text-white">
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+</html>
